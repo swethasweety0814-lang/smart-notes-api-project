@@ -17,4 +17,4 @@ A high-performance backend system built with **FastAPI** and **Python**, featuri
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/swethasugu11-rgb/smart-note-manager-ai.git](https://github.com/swethasugu11-rgb/smart-note-manager-ai.git)
+   git clone [https://github.com/swethasugu11-rgb/smart-note-manager-ai.git]
